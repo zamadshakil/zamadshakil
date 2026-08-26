@@ -1,69 +1,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Zamad Shakeel</title>
-  <desc id="desc">AI systems, production SaaS, and secure automation</desc>
+  <desc id="desc">Founder, AI product engineer, and full-stack builder</desc>
 
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07111F" />
-      <stop offset="54%" stop-color="#0B1728" />
-      <stop offset="100%" stop-color="#0D2130" />
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FEFDFB" />
+      <stop offset="100%" stop-color="#F6F3ED" />
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#20C997" />
-      <stop offset="100%" stop-color="#58A6FF" />
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6C63FF" />
+      <stop offset="100%" stop-color="#5147D9" />
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#20C997" stop-opacity="0.24" />
-      <stop offset="100%" stop-color="#20C997" stop-opacity="0" />
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#8B949E" stroke-opacity="0.09" stroke-width="1" />
-    </pattern>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="18" />
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#332E7A" flood-opacity="0.14" />
     </filter>
-    <clipPath id="rounding">
+    <clipPath id="frame">
       <rect width="1200" height="360" rx="26" />
     </clipPath>
   </defs>
 
-  <g clip-path="url(#rounding)">
-    <rect width="1200" height="360" fill="url(#background)" />
-    <rect width="1200" height="360" fill="url(#grid)" />
-    <circle cx="1070" cy="58" r="240" fill="url(#glow)" />
-    <circle cx="1062" cy="62" r="104" fill="#58A6FF" opacity="0.08" filter="url(#softGlow)" />
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#paper)" />
 
-    <path d="M0 332 C260 266 448 390 714 317 C914 262 1040 280 1200 224 V360 H0Z" fill="#20C997" opacity="0.045" />
-    <path d="M0 347 C282 285 454 405 721 333 C910 282 1057 291 1200 246" fill="none" stroke="url(#accent)" stroke-opacity="0.3" stroke-width="2" />
+    <!-- Quiet editorial details -->
+    <circle cx="1190" cy="-8" r="166" fill="#EDEAFE" />
+    <circle cx="1152" cy="334" r="86" fill="#FFD9CC" fill-opacity="0.66" />
+    <path d="M818 0V360" stroke="#E7E3DA" />
 
-    <g transform="translate(930 79)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <rect x="0" y="0" width="178" height="178" rx="34" stroke="#58A6FF" stroke-opacity="0.2" />
-      <rect x="24" y="24" width="130" height="130" rx="26" stroke="#20C997" stroke-opacity="0.36" />
-      <path d="M67 61L40 89L67 117M111 61L138 89L111 117" stroke="url(#accent)" stroke-width="7" />
-      <path d="M101 49L78 129" stroke="#C9D1D9" stroke-opacity="0.82" stroke-width="6" />
-      <circle cx="154" cy="24" r="7" fill="#20C997" stroke="none" />
-      <circle cx="24" cy="154" r="5" fill="#58A6FF" stroke="none" />
+    <!-- Identity -->
+    <rect x="70" y="59" width="34" height="4" rx="2" fill="#6257ED" />
+    <text x="118" y="66" fill="#6257ED" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">FOUNDER · ENGINEER · BUILDER</text>
+
+    <text x="67" y="161" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2.5">Zamad Shakeel</text>
+    <text x="70" y="211" fill="#4F5663" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" letter-spacing="-0.3">Designing dependable AI products, from idea to production.</text>
+
+    <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="0.7">
+      <text x="70" y="264" fill="#25252A">AI SYSTEMS</text>
+      <circle cx="174" cy="259" r="3" fill="#FF896A" />
+      <text x="191" y="264" fill="#25252A">SAAS PRODUCTS</text>
+      <circle cx="323" cy="259" r="3" fill="#FF896A" />
+      <text x="340" y="264" fill="#25252A">SECURE AUTOMATION</text>
     </g>
 
-    <rect x="70" y="64" width="205" height="30" rx="15" fill="#20C997" fill-opacity="0.1" stroke="#20C997" stroke-opacity="0.34" />
-    <circle cx="88" cy="79" r="4" fill="#20C997" />
-    <text x="101" y="84" fill="#7EE7C4" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.7">BUILDING AI THAT SHIPS</text>
+    <circle cx="74" cy="309" r="4" fill="#6257ED" />
+    <text x="90" y="314" fill="#737782" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">LAHORE  →  WORLDWIDE</text>
 
-    <text x="68" y="169" fill="#F0F6FC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="2">ZAMAD SHAKEEL</text>
-    <rect x="70" y="191" width="596" height="4" rx="2" fill="url(#accent)" />
-    <text x="70" y="235" fill="#B8C5D6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="23" font-weight="450" letter-spacing="0.5">AI systems · Production SaaS · Secure automation</text>
-
-    <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700">
-      <rect x="70" y="269" width="126" height="35" rx="8" fill="#58A6FF" fill-opacity="0.09" stroke="#58A6FF" stroke-opacity="0.29" />
-      <text x="92" y="292" fill="#8BC5FF">AI AGENTS</text>
-      <rect x="208" y="269" width="169" height="35" rx="8" fill="#20C997" fill-opacity="0.09" stroke="#20C997" stroke-opacity="0.29" />
-      <text x="230" y="292" fill="#7EE7C4">FULL-STACK SaaS</text>
-      <rect x="389" y="269" width="190" height="35" rx="8" fill="#58A6FF" fill-opacity="0.09" stroke="#58A6FF" stroke-opacity="0.29" />
-      <text x="411" y="292" fill="#8BC5FF">SYSTEMS THINKING</text>
-      <rect x="591" y="269" width="177" height="35" rx="8" fill="#20C997" fill-opacity="0.09" stroke="#20C997" stroke-opacity="0.29" />
-      <text x="613" y="292" fill="#7EE7C4">FOUNDER @ ZAMDEV</text>
+    <!-- Modern monogram composition -->
+    <g filter="url(#shadow)">
+      <rect x="925" y="87" width="188" height="188" rx="52" fill="url(#violet)" transform="rotate(7 1019 181)" />
     </g>
+    <circle cx="1110" cy="82" r="19" fill="#FF896A" />
+    <circle cx="914" cy="280" r="11" fill="#F4C95D" />
+    <path d="M922 105C967 59 1048 43 1115 68" fill="none" stroke="#B8B2FF" stroke-width="2" stroke-linecap="round" />
+    <text x="1019" y="201" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-3" text-anchor="middle">ZS</text>
+    <text x="1019" y="229" fill="#DCD9FF" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.2" text-anchor="middle">ZAMDEV AI</text>
 
-    <rect x="0" y="0" width="1200" height="360" rx="26" fill="none" stroke="#58A6FF" stroke-opacity="0.22" stroke-width="2" />
+    <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="25.25" fill="none" stroke="#E2DED5" stroke-width="1.5" />
   </g>
 </svg>
