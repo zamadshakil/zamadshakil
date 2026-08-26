@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2172" height="724" viewBox="0 0 2172 724" role="img" aria-labelledby="title desc">
+  <title id="title">Zamad Shakeel — ZamDev AI</title>
+  <desc id="desc">Technical founder building AI agents, SaaS products, LLM and RAG systems, secure codebases, and automation.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07383B" />
+      <stop offset="0.58" stop-color="#06464A" />
+      <stop offset="1" stop-color="#075257" />
+    </linearGradient>
+    <linearGradient id="nodeFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#124E4F" />
+      <stop offset="1" stop-color="#082F32" />
+    </linearGradient>
+    <radialGradient id="coreFill" cx="42%" cy="34%" r="72%">
+      <stop offset="0" stop-color="#FFD36B" />
+      <stop offset="0.68" stop-color="#F7B94F" />
+      <stop offset="1" stop-color="#E99A2F" />
+    </radialGradient>
+    <clipPath id="frame">
+      <rect x="22" y="22" width="2128" height="680" rx="42" />
+    </clipPath>
+    <marker id="arrowMint" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L8 4L0 8Z" fill="#83DCD0" />
+    </marker>
+    <marker id="arrowCoral" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L8 4L0 8Z" fill="#F47D61" />
+    </marker>
+    <symbol id="nodeFrame" viewBox="-64 -68 128 136">
+      <path d="M0-64L48-47L62-10L55 36L20 62L-21 62L-55 36L-62-10L-48-47Z" fill="url(#nodeFill)" stroke="#A7D8CD" stroke-width="3" />
+      <path d="M0-56L42-41L54-8L48 31L17 54L-18 54L-48 31L-54-8L-42-41Z" fill="none" stroke="#5C9D94" stroke-width="2" />
+    </symbol>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="22" y="22" width="2128" height="680" rx="42" fill="url(#background)" />
+    <path d="M22 574C346 520 627 641 968 587C1297 535 1458 421 1681 440C1904 459 2041 544 2150 486V702H22Z" fill="#052F33" opacity="0.54" />
+    <path d="M1193 22C1421 76 1548 206 1653 365C1772 543 1937 521 2150 410V22Z" fill="#0B5C5E" opacity="0.28" />
+    <path d="M1450 22C1580 153 1681 225 1838 236C1959 244 2059 207 2150 135V22Z" fill="#126B69" opacity="0.16" />
+
+    <!-- Personal brand and service positioning -->
+    <rect x="130" y="121" width="66" height="7" rx="3.5" fill="#F7B94F" />
+    <text x="220" y="139" fill="#9DD8CE" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="3.3">ZAMDEV AI · TECHNICAL FOUNDER · PRODUCT BUILDER</text>
+
+    <text x="126" y="316" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" letter-spacing="-4">Zamad Shakeel</text>
+
+    <text x="130" y="410" fill="#C8DFDA" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="400" letter-spacing="-0.5">I build AI agents, SaaS products, and automation</text>
+    <text x="130" y="464" fill="#C8DFDA" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="400" letter-spacing="-0.5">that survive production.</text>
+
+    <text x="130" y="540" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1.15" xml:space="preserve">AI AGENTS  <tspan fill="#F7B94F">•</tspan>  SAAS MVPs  <tspan fill="#F7B94F">•</tspan>  LLM &amp; RAG  <tspan fill="#F7B94F">•</tspan>  CODEBASE HARDENING  <tspan fill="#F7B94F">•</tspan>  AUTOMATION</text>
+
+    <circle cx="136" cy="617" r="7" fill="#F7B94F" />
+    <text x="168" y="626" fill="#9DD8CE" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2.5">LAHORE → WORLDWIDE</text>
+
+    <!-- Capability orchestration system -->
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="1658" cy="352" r="279" stroke="#83DCD0" stroke-width="2" stroke-dasharray="5 12" opacity="0.72" />
+      <circle cx="1658" cy="352" r="222" stroke="#A8D8CE" stroke-width="2" opacity="0.56" />
+      <circle cx="1658" cy="352" r="168" stroke="#F7B94F" stroke-width="2" opacity="0.72" />
+      <path d="M1416 211A279 279 0 0 1 1491 112" stroke="#83DCD0" stroke-width="2.5" marker-end="url(#arrowMint)" />
+      <path d="M1834 113A279 279 0 0 1 1926 212" stroke="#83DCD0" stroke-width="2.5" marker-end="url(#arrowMint)" />
+      <path d="M1926 490A279 279 0 0 1 1833 590" stroke="#83DCD0" stroke-width="2.5" marker-end="url(#arrowMint)" />
+      <path d="M1490 590A279 279 0 0 1 1394 490" stroke="#83DCD0" stroke-width="2.5" marker-end="url(#arrowMint)" />
+      <path d="M1407 252A222 222 0 0 1 1430 210" stroke="#F47D61" stroke-width="2.5" marker-end="url(#arrowCoral)" />
+      <path d="M1908 252A222 222 0 0 1 1925 299" stroke="#F47D61" stroke-width="2.5" marker-end="url(#arrowCoral)" />
+      <path d="M1908 451A222 222 0 0 1 1885 493" stroke="#F47D61" stroke-width="2.5" marker-end="url(#arrowCoral)" />
+      <path d="M1408 451A222 222 0 0 1 1391 404" stroke="#F47D61" stroke-width="2.5" marker-end="url(#arrowCoral)" />
+
+      <path d="M1587 280C1544 230 1519 190 1497 153" stroke="#8ED6CB" stroke-width="2.5" />
+      <path d="M1729 280C1771 230 1797 190 1819 153" stroke="#8ED6CB" stroke-width="2.5" />
+      <path d="M1544 352H1387" stroke="#8ED6CB" stroke-width="2.5" />
+      <path d="M1772 352H1929" stroke="#8ED6CB" stroke-width="2.5" />
+      <path d="M1587 424C1544 475 1519 515 1497 551" stroke="#8ED6CB" stroke-width="2.5" />
+      <path d="M1729 424C1771 475 1797 515 1819 551" stroke="#8ED6CB" stroke-width="2.5" />
+
+      <g stroke="#F7B94F" stroke-width="2" opacity="0.68">
+        <path d="M1658 270L1718 304L1718 372L1658 406L1598 372L1598 304Z" />
+        <path d="M1658 286L1704 312L1704 364L1658 390L1612 364L1612 312Z" />
+        <path d="M1658 304L1688 321L1688 355L1658 372L1628 355L1628 321Z" />
+        <path d="M1598 304L1704 364M1718 304L1612 364M1658 270V406" />
+      </g>
+    </g>
+
+    <!-- Orbit signals -->
+    <g fill="#083C3F" stroke-width="3">
+      <circle cx="1619" cy="76" r="7" stroke="#83DCD0" />
+      <circle cx="1883" cy="155" r="7" stroke="#83DCD0" />
+      <circle cx="1927" cy="445" r="7" stroke="#F47D61" />
+      <circle cx="1658" cy="631" r="7" stroke="#83DCD0" />
+      <circle cx="1393" cy="544" r="7" stroke="#83DCD0" />
+      <circle cx="1389" cy="247" r="7" stroke="#F47D61" />
+    </g>
+
+    <!-- Central AI core -->
+    <circle cx="1658" cy="352" r="116" fill="#07383B" stroke="#F7B94F" stroke-width="3" />
+    <circle cx="1658" cy="352" r="101" fill="none" stroke="#FFD36B" stroke-width="8" />
+    <circle cx="1658" cy="352" r="87" fill="url(#coreFill)" stroke="#FFF0BE" stroke-width="2" />
+    <text x="1658" y="377" text-anchor="middle" fill="#08363A" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">AI</text>
+
+    <!-- Consistent capability nodes -->
+    <g>
+      <g transform="translate(1480 114)">
+        <use href="#nodeFrame" x="-64" y="-68" width="128" height="136" />
+        <circle cx="0" cy="-18" r="16" fill="none" stroke="#FFF5E5" stroke-width="4" />
+        <path d="M-29 33C-26 9-15 0 0 0C15 0 26 9 29 33" fill="none" stroke="#FFF5E5" stroke-width="4" />
+        <circle cx="21" cy="9" r="5" fill="#F47D61" />
+      </g>
+      <text x="1480" y="203" text-anchor="middle" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.8">AGENTS</text>
+
+      <g transform="translate(1836 114)">
+        <use href="#nodeFrame" x="-64" y="-68" width="128" height="136" />
+        <path d="M-25-28H17L30-15V15H8L-10 30V15H-25Z" fill="none" stroke="#FFF5E5" stroke-width="4" />
+        <path d="M-14-13H17M-14-1H12" stroke="#FFF5E5" stroke-width="3" />
+        <circle cx="18" cy="20" r="11" fill="none" stroke="#F47D61" stroke-width="3" />
+        <path d="M26 28L34 36" stroke="#F47D61" stroke-width="3" />
+      </g>
+      <text x="1836" y="203" text-anchor="middle" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.8">RAG</text>
+
+      <g transform="translate(1320 352)">
+        <use href="#nodeFrame" x="-64" y="-68" width="128" height="136" />
+        <circle cx="0" cy="0" r="19" fill="none" stroke="#FFF5E5" stroke-width="4" />
+        <path d="M0-34V-23M0 23V34M-34 0H-23M23 0H34M-24-24L-16-16M16 16L24 24M24-24L16-16M-16 16L-24 24" stroke="#FFF5E5" stroke-width="5" />
+        <circle cx="0" cy="0" r="6" fill="#F47D61" />
+      </g>
+      <text x="1320" y="442" text-anchor="middle" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="1.4">AUTOMATION</text>
+
+      <g transform="translate(1996 352)">
+        <use href="#nodeFrame" x="-64" y="-68" width="128" height="136" />
+        <path d="M0-31L31-14L0 3L-31-14Z" fill="none" stroke="#FFF5E5" stroke-width="4" />
+        <path d="M-31-14V18L0 35L31 18V-14M0 3V35" fill="none" stroke="#FFF5E5" stroke-width="4" />
+        <path d="M0-31L31-14" stroke="#F47D61" stroke-width="5" />
+      </g>
+      <text x="1996" y="442" text-anchor="middle" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.8">SAAS</text>
+
+      <g transform="translate(1480 590)">
+        <use href="#nodeFrame" x="-64" y="-68" width="128" height="136" />
+        <path d="M0-34C16-23 28-22 32-22V2C32 22 18 35 0 42C-18 35-32 22-32 2V-22C-28-22-16-23 0-34Z" fill="none" stroke="#FFF5E5" stroke-width="4" />
+        <path d="M-13 5L-3 15L17-8" fill="none" stroke="#F47D61" stroke-width="5" />
+      </g>
+      <text x="1480" y="680" text-anchor="middle" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.8">SECURITY</text>
+
+      <g transform="translate(1836 590)">
+        <use href="#nodeFrame" x="-64" y="-68" width="128" height="136" />
+        <path d="M-13-24L-36 0L-13 24M13-24L36 0L13 24M7-35L-7 35" fill="none" stroke="#FFF5E5" stroke-width="5" />
+        <circle cx="31" cy="-20" r="5" fill="#F47D61" />
+      </g>
+      <text x="1836" y="680" text-anchor="middle" fill="#FFF5E5" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.8">APIs</text>
+    </g>
+  </g>
+
+  <rect x="22.75" y="22.75" width="2126.5" height="678.5" rx="41.25" fill="none" stroke="#548E87" stroke-width="1.5" />
+</svg>

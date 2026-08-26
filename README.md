@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner-ai.png" alt="Zamad Shakeel — abstract AI systems architecture" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Zamad Shakeel — AI engineering and product-building profile banner" width="100%" />
 </div>
 
 <div align="center">
